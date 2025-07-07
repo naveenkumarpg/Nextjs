@@ -1,0 +1,12 @@
+.panel {
+  width: 300px;
+  background: #ccc;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.textArea {
+  width: 100%;
+}
